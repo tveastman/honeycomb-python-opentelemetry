@@ -1,0 +1,3 @@
+
+# Just ignoring the root .envrc since it has my API key in it.
+/.envrc
